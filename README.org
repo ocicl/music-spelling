@@ -2,9 +2,8 @@
 
 Implements an algorithm for the spelling of enharmonics and dealing with ties and dots in rhythm notation.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/ntrocado/music-spelling.git   |
-| commit  | a2d492a  |
-| systems | music-spelling |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/ntrocado/music-spelling.git |
+| commit  | c158400                                            |
+| systems | music-spelling                                     |
+|---------+----------------------------------------------------|
